@@ -9,7 +9,7 @@ Aplikasi web berbasis Laravel + Livewire untuk merangkum dokumen (PDF, DOCX, TXT
 
 ### 1. Clone Repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/xdyaksa/AI-Sumarizer-Hacktiv8-Capstone.git
 cd doc-sum
 ```
 
